@@ -1,0 +1,49 @@
+# Xcode build output (project-relative DerivedData)
+build/
+DerivedData/
+
+# Xcode user-specific data
+*.xcuserstate
+xcuserdata/
+
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# Signing & provisioning (guard against accidental commits)
+*.p12
+*.cer
+*.certSigningRequest
+*.mobileprovision
+*.provisionprofile
+
+# Sensitive config files (precautionary)
+GoogleService-Info.plist
+google-services.json
+Secrets.swift
+*.env
+.env*
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+Carthage/Checkouts/
+
+# Swift Package Manager
+.build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Code Injection (e.g. Injection III)
+iOSInjectionProject/
