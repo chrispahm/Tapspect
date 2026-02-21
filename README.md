@@ -15,9 +15,8 @@
 ---
 
 <p align="center">
-  <img src="media/screenshot.png" width="300" alt="Tapspect showing the debug panel with console logs and network requests overlaying a web app">
+  <img src="https://github.com/user-attachments/assets/c15d295a-4aed-46bb-b47a-bfad722d7768" width="300" alt="Tapspect showing the debug panel with console logs and network requests overlaying a web app">
   <br>
-  <em>Replace this with an actual screenshot — ideally showing the debug panel open over a web app, with a few console logs and network requests visible.</em>
 </p>
 
 ---
