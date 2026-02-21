@@ -82,6 +82,10 @@ Once enabled, every time you take a screenshot the image is uploaded and the pub
 - The network interceptor captures **JavaScript-initiated** requests. Navigation-level requests (page loads, iframes) are logged via `WKNavigationDelegate`
 - For localhost testing, use your Mac's local IP (e.g., `http://192.168.1.x:3000`) since the simulator/device can't reach `localhost` on your Mac directly (simulator can, physical device cannot)
 
+## Privacy
+
+[Privacy Policy](https://chrispahm.github.io/Tapspect/privacy)
+
 ## License
 
 MIT
